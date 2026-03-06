@@ -4,7 +4,7 @@ This repository is a complete collection of all documents leaked by former Natio
 
 If you notice something is missing or wrong, please file an issue or TG at [@anonim_xatbot](https://t.me/anonim_xatbot).
 
-## Timeline of Revelations (2013-2018)
+## Timeline of Revelations (2003-2018)
 
 ### 2013
 
