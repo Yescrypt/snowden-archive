@@ -2,7 +2,7 @@
 
 This repository is a complete collection of all documents leaked by former National Security Agency contractor and whistleblower Edward Snowden that have subsequently been published by news media around the world.
 
-If you notice something is missing or wrong, please file an issue or tweet at [@iamcryptoki](https://twitter.com/iamcryptoki).
+If you notice something is missing or wrong, please file an issue or TG at [@anonim_xatbot](https://t.me/anonim_xatbot).
 
 ## Timeline of Revelations (2013-2018)
 
